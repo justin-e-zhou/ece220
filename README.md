@@ -19,5 +19,5 @@ This course focuses on C programming, where each new C concept is introduced bas
 
 ***
 
-## GRADE ACHIEVED
-### A-
+## GRADE ACHIEVED:
+# A-
